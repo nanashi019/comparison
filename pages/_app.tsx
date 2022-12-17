@@ -20,15 +20,13 @@ function App({ Component, pageProps }: AppProps) {
         <meta property="og:image" content="./meta.png" />
         <meta
           property="og:url"
-          content="https://yurim-josh-wedding-card.vercel.app/"
-        />
+          content="https://comparison-nine.vercel.app/" />
         {/* twitter open graph */}
         <meta name="twitter:title" content="승진, 미영 결혼해요" />
         <meta name="twitter:image" content="./meta.png" />
         <meta
           name="twitter:url"
-          content="https://yurim-josh-wedding-card.vercel.app/"
-        />
+          content="https://comparison-nine.vercel.app/" />
         <link rel="icon" href="/favicon.ico" />
         <script
           className="daum_roughmap_loader_script"
